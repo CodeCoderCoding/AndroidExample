@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="main_activity_intent">intent</string>
+
+    <string name="intent_base_explicit">intent_explicit</string>
+    <string name="intent_base_implicit">intent_implicit</string>
 </resources>
