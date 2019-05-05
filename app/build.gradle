@@ -23,6 +23,7 @@ android {
                     'src/main/res/layout/fragment',
                     'src/main/res/layout/ui',
                     'src/main/res/layout/main',
+                    'src/main/res/layout/content',
                     'src/main/res/layout',
                     'src/main/res'
             ]
