@@ -1,15 +1,15 @@
-package com.mycompany.androidexample.UI;
+package com.mycompany.androidexample.Storage;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import com.mycompany.androidexample.R;
 
-public class RecycleView extends AppCompatActivity {
+public class SQLiteActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.ui_recycle_view);
+        setContentView(R.layout.activity_sqlite);
     }
 }

@@ -10,6 +10,6 @@ public class IntentFirst extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.intent_first);
+        setContentView(R.layout.activity_intent_first);
     }
 }
