@@ -2,6 +2,14 @@
     <string name="app_name">My Application</string>
     <string name="main_activity_intent">intent</string>
 
+    <string name="main_storage_sqlite">storage_sqlite</string>
+
     <string name="intent_base_explicit">intent_explicit</string>
     <string name="intent_base_implicit">intent_implicit</string>
+
+    <string name="storage_sqlite_create">create database</string>
+    <string name="storage_sqlite_add">add data</string>
+    <string name="storage_sqlite_update">update data</string>
+    <string name="storage_sqlite_delete">delete data</string>
+    <string name="storage_sqlite_query">query data</string>
 </resources>
